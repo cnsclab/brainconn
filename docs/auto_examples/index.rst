@@ -79,13 +79,13 @@ Centrality
 
   .. container:: sphx-glr-download
 
-    :download:`Download all examples in Python source code: auto_examples_python.zip <//Users/tsalo/Documents/tsalo/brainconn/doc/auto_examples/auto_examples_python.zip>`
+    :download:`Download all examples in Python source code: auto_examples_python.zip <//Users/tsalo/Documents/tsalo/brainconn/docs/auto_examples/auto_examples_python.zip>`
 
 
 
   .. container:: sphx-glr-download
 
-    :download:`Download all examples in Jupyter notebooks: auto_examples_jupyter.zip <//Users/tsalo/Documents/tsalo/brainconn/doc/auto_examples/auto_examples_jupyter.zip>`
+    :download:`Download all examples in Jupyter notebooks: auto_examples_jupyter.zip <//Users/tsalo/Documents/tsalo/brainconn/docs/auto_examples/auto_examples_jupyter.zip>`
 
 
 .. only:: html

@@ -1,6 +1,6 @@
-doc/_build/
-doc/generated/
-doc/auto_examples/
+docs/_build/
+docs/generated/
+docs/auto_examples/
 
 .pytest_cache/
 
